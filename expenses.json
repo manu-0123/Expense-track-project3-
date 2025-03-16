@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2025-03-16",
+        "amount": 250,
+        "category": "food",
+        "description": "Lunch at cafe"
+    },
+    {
+        "date": "2025-03-16",
+        "amount": 500,
+        "category": "transport",
+        "description": "Taxi fare"
+    },
+    {
+        "date": "2024-04-17",
+        "amount": 50000.0,
+        "category": "entertainment",
+        "description": "costume budget"
+    },
+    {
+        "date": "2025-05-7",
+        "amount": 100000.0,
+        "category": "utilities",
+        "description": "regarding to generic medicines"
+    },
+    {
+        "date": "2025-06-09",
+        "amount": 50000.0,
+        "category": "others",
+        "description": "regards to medical equipments"
+    }
+]
